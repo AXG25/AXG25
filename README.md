@@ -1,8 +1,10 @@
-
+![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
 <h1 align="center">Hi 👋, I'm Abi</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axg25&label=Profile%20views&color=0e75b6&style=flat" alt="axg25" /> </p>
+<img align="right" alt="Codificación" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 
 - 📫 How to reach me **guerra.cuadros25@gmail.com**
 
